@@ -1,2 +1,4 @@
 # test-git-project
-创建a文件
+hello gitHub
+This is my first git file.
+All things will start from here.
